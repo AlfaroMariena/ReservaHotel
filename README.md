@@ -1,3 +1,18 @@
+Miembros:
+Alejandro Orellana Reyes
+
+César Elmer Vanegas Mejía
+
+Cesia Mariena Alfaro Hernández
+
+Douglas Alfredo Lino Henriquez
+
+Katya Yanira González de Olivares
+
+Rodrigo Aldair Lopez Pereira
+
+Ronald Ernesto Ayala Lara
+
 
 Sistema de Reserva Básica de Hotel (SRH7)
 
